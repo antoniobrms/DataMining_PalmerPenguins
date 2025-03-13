@@ -53,3 +53,16 @@ The logistic regression model performed well with high accuracy in classifying p
 To run the analysis, you need to install the required libraries:
 ```bash
 pip install numpy pandas seaborn scikit-learn matplotlib
+```
+## Usage
+1. Load the dataset.
+2. Run the `data_cleaning.py` script to preprocess the data.
+3. Perform EDA using `eda.py`.
+4. Train and evaluate the logistic regression model using `model.py`.
+
+
+
+
+
+
+
