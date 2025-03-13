@@ -55,10 +55,10 @@ To run the analysis, you need to install the required libraries:
 pip install numpy pandas seaborn scikit-learn matplotlib
 ```
 ## Usage
-1. Load the dataset.
-2. Run the `data_cleaning.py` script to preprocess the data.
-3. Perform EDA using `eda.py`.
-4. Train and evaluate the logistic regression model using `model.py`.
+1. **Prepare the dataset**: Ensure the files `penguins_size.csv` and `penguins_iter.csv` are in the same directory as the script.
+2. **Run the main script**: Execute the `PalmerPenguinDataset.py` script to clean the data, perform exploratory data analysis, and train the logistic regression model:
+   ```bash
+   python PalmerPenguinDataset.py
 
 
 
