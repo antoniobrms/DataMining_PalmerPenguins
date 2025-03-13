@@ -59,10 +59,4 @@ pip install numpy pandas seaborn scikit-learn matplotlib
 2. **Run the main script**: Execute the `PalmerPenguinDataset.py` script to clean the data, perform exploratory data analysis, and train the logistic regression model:
    ```bash
    python PalmerPenguinDataset.py
-
-
-
-
-
-
-
+´´´
